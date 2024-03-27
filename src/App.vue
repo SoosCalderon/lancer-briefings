@@ -89,64 +89,48 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "000",
+          "name": "Just Like The Simulations",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
+          "alias": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "corpro": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+          "frame": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+          "mech": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
+          "alias": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "corpro": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+          "frame": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+          "mech": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
+          "callsign": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
+          "alias": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
-        },
-        {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "corpro": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+          "frame": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+          "mech": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "planet": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
+        "year": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+        "system": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
+        "gate": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
+        "ring": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
