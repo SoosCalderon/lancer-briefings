@@ -101,28 +101,28 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
-          "alias": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
-          "frame": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
-          "mech": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝"
+          "callsign": "UNITY",
+          "alias": "The Consensus",
+          "code": "4c1f5ee4-c847-4958-9309-900720abff1d//NDL-C-DARK-SUN",
+          "corpro": "H0RUS",
+          "frame": "GOBLIN",
+          "mech": "UNIT_01"
         },
         {
-          "callsign": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
-          "alias": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
-          "frame": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
-          "mech": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝"
+          "callsign": "WEEZER",
+          "alias": "Carl Caltrop",
+          "code": "632339e1-e468-4f26-ad44-ac6a5f8d069c//NDL-C-EPSILON-ASH",
+          "corpro": "IPS-N",
+          "frame": "TORTUGA",
+          "mech": "SKULLFINDER"
         },
         {
-          "callsign": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
-          "alias": "Ù̴̧̕N̸̟͇͠K̶̲̐N̸͈̂̈Ọ̶͍͋͋W̶̦͇͛̀N̷͈̗͋",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
-          "frame": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝",
-          "mech": "È̵͉R̴̹̲̃̌R̸̜̼̃̅Ȍ̶̬̘͆R̷͔͝"
+          "callsign": "SANDBAG",
+          "alias": "Henry Norman",
+          "code": "84c08a84-8bab-4b4b-b047-71c59c51e297//NDL-C-RED-JUDGE",
+          "corpro": "HA",
+          "frame": "BARBAROSSA",
+          "mech": "RAMPART"
         },
       ],
       "header": {
