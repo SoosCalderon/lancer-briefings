@@ -128,7 +128,7 @@ export default {
       "header": {
         "planet": "IN ORBIT",
         "year": "5036u",
-        "system": "OUTER RIM",
+        "system": "LONG RIM",
         "gate": "RAO CO",
         "ring": "ANNAMITE",
         "headerTitle": "Mirrorsmoke",
