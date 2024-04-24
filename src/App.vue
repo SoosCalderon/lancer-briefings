@@ -89,13 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "000",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "000",
           "name": "Just Like The Simulations",
+          "status": "success"
+        },
+        {
+          "slug": "001",
+          "name": "In Transit",
           "status": "start"
         },
       ],
