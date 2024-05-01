@@ -138,7 +138,7 @@ export default {
       "header": {
         "planet": "DEANI",
         "year": "5036u",
-        "system": "LONG RIM",
+        "system": "System OR-XY736 AKA Boudica System",
         "gate": "RAO CO (DESTROYED)",
         "ring": "UNCHARTED",
         "headerTitle": "Mirrorsmoke",
