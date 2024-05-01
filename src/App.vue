@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
@@ -101,6 +101,11 @@ export default {
         {
           "slug": "001",
           "name": "In Transit",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "First Impressions",
           "status": "start"
         },
       ],
@@ -131,11 +136,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "IN ORBIT",
+        "planet": "DEANI",
         "year": "5036u",
         "system": "LONG RIM",
-        "gate": "RAO CO",
-        "ring": "ANNAMITE",
+        "gate": "RAO CO (DESTROYED)",
+        "ring": "UNCHARTED",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
